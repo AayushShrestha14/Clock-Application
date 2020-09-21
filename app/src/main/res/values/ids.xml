@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="main_frame" type="id" />
+    <item name="main_nav" type="id" />
+
+    <item name="btn_start" type="id" />
+    <item name="btn_lap" type="id" />
+    <item name="btn_stop" type="id" />
+    <item name="et_laps" type="id" />
+    <item name="sv_lap" type="id" />
+</resources>

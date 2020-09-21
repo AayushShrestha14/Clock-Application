@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Clock Application</string>
+    <string name="nav_alarm">Alarm</string>
+    <string name="nav_clock">Clock</string>
+    <string name="nav_timer">Timer</string>
+    <string name="nav_stopwatch">Stopwatch</string>
+
+    <string name="analog_clock">Analog Clock</string>
+
+    <string name="app_short_name">Chronometer</string>
+    <string name="app_state_stopped">has stopped.</string>
+    <string name="app_state_running">is running.</string>
+    <string name="app_state_background">is running in background.</string>
+    <string name="warning_lap_button">Please start the chronometer first!</string>
+</resources>
